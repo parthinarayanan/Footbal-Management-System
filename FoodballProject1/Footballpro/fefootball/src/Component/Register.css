@@ -1,0 +1,105 @@
+/* .b1{
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+     margin-left: 300px;
+     width: 50%;
+     height: 600px;
+     border: 2px solid white;
+     border-top: 20px;
+     border-radius: 5px;
+     opacity: 60%;
+     
+   
+     
+  }
+  .b2{
+      background-color: lightblue;
+      text-align: center;
+  
+  }
+  .b3{
+     margin-left: 50px; 
+  }
+  .b4{
+      color: black;
+      margin-left: 25%;
+      position: relative;
+      bottom: 30px;
+  }
+  #email1{
+      width: 50%;
+      padding: 8px 8px;
+      background: linear-gradient(40deg,rgb(32, 84, 238),rgb(94, 23, 142),purple);
+      border: none;
+      margin-left: 60px;
+      position: relative;
+      bottom: 30px;
+      color: white;
+      
+  }
+  #username1{
+      width: 50%;
+      padding: 8px 8px;
+      background: linear-gradient(40deg,rgb(32, 84, 238),rgb(94, 23, 142),purple);
+      border: none;
+      margin-left: 60px;
+      position: relative;
+      bottom: 30px;
+      color: white;
+  }
+  #mobilenumber1{
+      width: 50%;
+      padding: 8px 8px;
+      background: linear-gradient(40deg,rgb(32, 84, 238),rgb(94, 23, 142),purple);
+      border: none;
+      margin-left: 60px;
+      position: relative;
+      bottom: 30px;
+      color: white;
+  }
+  #password1{
+      width: 50%;
+      padding: 8px 8px;
+      background: linear-gradient(40deg,rgb(32, 84, 238),rgb(94, 23, 142),purple);
+      border: none;
+      margin-left: 60px;
+      position: relative;
+      bottom: 30px;
+      color: white;
+  }
+  #confirmpassword{
+      width: 50%;
+      padding: 8px 8px;
+      background: linear-gradient(40deg,rgb(32, 84, 238),rgb(94, 23, 142),purple);
+      border: none;
+      margin-left: 60px;    
+      position: relative;
+      bottom: 30px;
+      color: white;
+  }
+  #submitbutton1{
+      border-radius: 5px;
+      margin-left: 80px;
+      width: 16%;
+      cursor: pointer;
+      padding: 10px 10px;
+      background: linear-gradient(40deg,rgb(32, 84, 238),rgb(94, 23, 142),purple);
+      position: relative;
+      bottom: 20px;
+      color: white;
+  }
+  #signUplink1{
+   
+      margin-left: 170px;
+      color: black;
+      position: relative;
+      bottom: 67px;
+  }
+  #sign{
+      color:blue;
+  }
+  ::placeholder{
+      color:white;
+  }
+  */
